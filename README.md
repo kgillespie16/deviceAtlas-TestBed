@@ -10,7 +10,7 @@ To compile and run the project
 
 javac Demo.java
 
-java Demo --inputFileName /Users/ssoni16/Downloads/user-agents--2016-07-19 --outputFileName output.csv --readLimit 1000
+java Demo --inputFileName deviceAtlas/user-agents--2016-07-19 --outputFileName output.csv --readLimit 1000
 
 ## Inputs
 
