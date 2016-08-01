@@ -73,7 +73,7 @@ public class Demo {
 			printUsage("ERROR: Arguments missing");
 		}
 		try {
-			readLimit = Integer.parseInt(commandLine.getOptionValue("readlimit", "0"));
+			readLimit = Integer.parseInt(commandLine.getOptionValue("readLimit","0"));
 		} catch(NumberFormatException e) {
 			System.out.println("Limit should be in integer" + e.getMessage());
 		}
@@ -100,13 +100,13 @@ public class Demo {
 		PrintWriter pw = null;
 		try{
 			pw = new PrintWriter(outputFilename);
-			pw.println("Key,"+"Version 1.7 Value,"+"Version 2.1 Value");
+			pw.println("UserAgentString,"+"Key,"+"Version 1.7 Value,"+"Version 2.1 Value");
 			for(int i=0; i< readLimit; i++){
 				HashMap <String, Map> diff = findDiff(atlas,userAgents.get(i).getUserAgent());
 				for (String key : diff.keySet()){
 					Object valueV1 = diff.get(key).get("v1");
 					Object valueV2 = diff.get(key).get("v2");
-					pw.println(key + ","+ valueV1 + "," + valueV2 );
+					pw.println(userAgents.get(i).getUserAgent() + "," + key + ","+ valueV1 + "," + valueV2 );
 				}
 			}
 		}
@@ -116,7 +116,6 @@ public class Demo {
 		}
 	}
 
-	
 	public static HashMap <String, Map> findDiff(DeviceAtlas atlas,String userAgent){
 		Map<String, Object> attributesV1 = atlas.getV1DeviceAttributes(userAgent); // Gets Attributes from deviceAtlas1_7 api
 		Properties attributesV2 = atlas.getV2DeviceAttributes(userAgent); // Gets Attributes from deviceAtlas2.1 api
