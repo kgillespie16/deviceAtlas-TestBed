@@ -61,17 +61,20 @@ public class Demo {
 		Demo.createOptions();
 		String inputFilename, outputFilename = null;
 		Integer readLimit = null;
+		
 		try {
 			commandLine = parser.parse(options, args);
 		} catch (ParseException e) {
 			printUsage("ERROR " + e.getMessage());
 		}
+		
 		if( commandLine.hasOption('h') ) { 
 			printUsage(); 
 			return;
 		} else if (commandLine.getOptions().length < 2) {
 			printUsage("ERROR: Arguments missing");
 		}
+		
 		try {
 			readLimit = Integer.parseInt(commandLine.getOptionValue("readLimit","0"));
 		} catch(NumberFormatException e) {
@@ -94,21 +97,33 @@ public class Demo {
 
 		// Sample userAgent
 		// String userAgent = "Mozilla/5.0 (Linux; Android 6.0.1; HTC Desire EYE Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.2564.106 Mobile Safari/537.36";
+		// String userAgent = "Mozilla/5.0 (Linux; Android 4.4.4; XT1025 Build/KXC21.5-40) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36";
 
 		// Creates DeviceAtlas object
 		DeviceAtlas atlas = new DeviceAtlas(atlasV1Filename, atlasV2Filename);
 		PrintWriter pw = null;
+		PrintWriter pw1 = null;
 		try{
 			pw = new PrintWriter(outputFilename);
+			pw1 = new PrintWriter("OldVersionNullUnknowns.csv"); // Contains the null/unknown make/madel for older version
+		
 			pw.println("UserAgentString,"+"Key,"+"Version 1.7 Value,"+"Version 2.1 Value");
+			pw1.println("UserAgentString,"+"Key,"+"Version 1.7 Value");
+			
 			for(int i=0; i< readLimit; i++){
 				HashMap <String, Map> diff = findDiff(atlas,userAgents.get(i).getUserAgent());
 				for (String key : diff.keySet()){
 					Object valueV1 = diff.get(key).get("v1");
 					Object valueV2 = diff.get(key).get("v2");
-					pw.println("\""+userAgents.get(i).getUserAgent()+"\"" + "," + key + ","+ valueV1 + "," + valueV2 );
+					if(valueV1==null || valueV1=="UnKnown"){
+						pw1.println("\""+userAgents.get(i).getUserAgent() + "\"" + "," + key + "," + valueV1 + "," + valueV2);
+					}else{
+						pw.println("\""+userAgents.get(i).getUserAgent()+"\"" + "," + key + ","+ valueV1 + "," + valueV2 );
+					}
 				}
 			}
+			pw.close();
+			pw1.close();
 		}
 		catch (FileNotFoundException e){
 			System.out.println("File not found");
@@ -172,7 +187,7 @@ public class Demo {
 		o.setValueSeparator('=');
 		return o;
 	}
-	
+
 	private static void printUsage(String message) {
 		System.out.println(message + "\n");
 		printUsage();
