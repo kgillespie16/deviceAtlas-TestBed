@@ -101,14 +101,14 @@ public class Demo {
 
 		// Creates DeviceAtlas object
 		DeviceAtlas atlas = new DeviceAtlas(atlasV1Filename, atlasV2Filename);
-		PrintWriter pw = null;
-		PrintWriter pw1 = null;
+		PrintWriter pwForDifferences = null;
+		PrintWriter pwForUnknowns = null;
 		try{
-			pw = new PrintWriter(outputFilename);
-			pw1 = new PrintWriter("OldVersionNullUnknowns.csv"); // Contains the null/unknown make/madel for older version
+			pwForDifferences = new PrintWriter(outputFilename);
+			pwForUnknowns = new PrintWriter("OldVersionNullUnknowns.csv"); // Contains the null/unknown make/madel for older version
 		
-			pw.println("UserAgentString,"+"Key,"+"Version 1.7 Value,"+"Version 2.1 Value");
-			pw1.println("UserAgentString,"+"Key,"+"Version 1.7 Value");
+			pwForDifferences.println("UserAgentString,"+"Key,"+"Version 1.7 Value,"+"Version 2.1 Value");
+			pwForUnknowns.println("UserAgentString,"+"Key,"+"Version 1.7 Value,"+"Version 2.1 Value");
 			
 			for(int i=0; i< readLimit; i++){
 				HashMap <String, Map> diff = findDiff(atlas,userAgents.get(i).getUserAgent());
@@ -116,14 +116,14 @@ public class Demo {
 					Object valueV1 = diff.get(key).get("v1");
 					Object valueV2 = diff.get(key).get("v2");
 					if(valueV1==null || valueV1=="UnKnown"){
-						pw1.println("\""+userAgents.get(i).getUserAgent() + "\"" + "," + key + "," + valueV1 + "," + valueV2);
+						pwForUnknowns.println("\""+userAgents.get(i).getUserAgent() + "\"" + "," + key + "," + valueV1 + "," + valueV2);
 					}else{
-						pw.println("\""+userAgents.get(i).getUserAgent()+"\"" + "," + key + ","+ valueV1 + "," + valueV2 );
+						pwForDifferences.println("\""+userAgents.get(i).getUserAgent()+"\"" + "," + key + ","+ valueV1 + "," + valueV2 );
 					}
 				}
 			}
-			pw.close();
-			pw1.close();
+			pwForDifferences.close();
+			pwForUnknowns.close();
 		}
 		catch (FileNotFoundException e){
 			System.out.println("File not found");
