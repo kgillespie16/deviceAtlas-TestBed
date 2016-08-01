@@ -53,7 +53,6 @@ public class DeviceAtlas {
             }
             catch(Exception e){ e.printStackTrace(); }
         }
-
         return null;
     }
 
@@ -98,13 +97,16 @@ public class DeviceAtlas {
             versions.clear();
 
             versions.put(v1, Attributes.vendor.get(attributesV1));
+            if(attributesV2.get("manufacturer")!=null)
             versions.put(v2, attributesV2.get("manufacturer").asString());
             tmp = new HashMap<String, String>(versions);
             attributes.put("vendor", tmp);
             versions.clear();
 
             String osNameV1 = queryDeviceOs(userAgent, attributesV1);
-            String osNameV2 = attributesV2.get("osName").asString();
+            String osNameV2 = null;
+            if(attributesV2.get("osName")!=null)
+            osNameV2 = attributesV2.get("osName").asString();
             versions.put(v1, osNameV1);
             versions.put(v2, osNameV2);
             tmp = new HashMap<String, String>(versions);
@@ -144,7 +146,6 @@ public class DeviceAtlas {
 
         }
         return dif;
-
     }
 
     // Used to combine and find difference in attributes
@@ -157,7 +158,6 @@ public class DeviceAtlas {
         for (String key : attributes.keySet()){
             Object valueV1 = attributes.get(key).get("v1");
             Object valueV2 = attributes.get(key).get("v2");
-
             System.out.println("Key: " + key + " - " + "Version: 1.7, Value: " + valueV1 + " -- Version: 2.1, Value: " + valueV2 );
         }
     }
@@ -351,5 +351,5 @@ public class DeviceAtlas {
         }
 
     }
-
+    
 }
