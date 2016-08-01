@@ -114,7 +114,7 @@ public class DeviceAtlas {
             versions.clear();
 
             versions.put(v1, getOsVersion(osNameV1, Attributes.osVersion.get(attributesV1)));
-            versions.put(v2, getOsVersion(osNameV2, Attributes.osVersion.get(attributesV1)));
+            versions.put(v2, getOsVersion(osNameV2, Attributes.osVersion.get(attributesV2)));
 
             tmp = new HashMap<String, String>(versions);
             attributes.put("osVersions", tmp);
