@@ -56,7 +56,7 @@ public class Demo {
 		}
 	}
 
-	// Main Function
+	// Main Method
 	public static void main(String [] args){
 		Demo.createOptions();
 		String inputFilename, outputFilename = null;
@@ -106,7 +106,7 @@ public class Demo {
 				for (String key : diff.keySet()){
 					Object valueV1 = diff.get(key).get("v1");
 					Object valueV2 = diff.get(key).get("v2");
-					pw.println(userAgents.get(i).getUserAgent() + "," + key + ","+ valueV1 + "," + valueV2 );
+					pw.println("\""+userAgents.get(i).getUserAgent()+"\"" + "," + key + ","+ valueV1 + "," + valueV2 );
 				}
 			}
 		}
