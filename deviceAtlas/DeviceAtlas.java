@@ -90,12 +90,14 @@ public class DeviceAtlas {
             HashMap <String, String> versions = new HashMap<String, String>(2);
             HashMap <String, String> tmp;
 
+            // MODEL
             versions.put(v1, determineName(attributesV1));
             versions.put(v2, determineName(attributesV2));
             tmp = new HashMap<String, String>(versions);
             attributes.put("model", tmp);
             versions.clear();
 
+            // VENDOR/MANU
             versions.put(v1, Attributes.vendor.get(attributesV1));
             if(attributesV2.get("manufacturer")!=null)
             versions.put(v2, attributesV2.get("manufacturer").asString());
@@ -103,6 +105,7 @@ public class DeviceAtlas {
             attributes.put("vendor", tmp);
             versions.clear();
 
+            // OSNAME
             String osNameV1 = queryDeviceOs(userAgent, attributesV1);
             String osNameV2 = null;
             if(attributesV2.get("osName")!=null)
@@ -113,12 +116,57 @@ public class DeviceAtlas {
             attributes.put("osName",tmp);
             versions.clear();
 
+            // OSVERSION
             versions.put(v1, getOsVersion(osNameV1, Attributes.osVersion.get(attributesV1)));
             versions.put(v2, getOsVersion(osNameV2, Attributes.osVersion.get(attributesV2)));
-
             tmp = new HashMap<String, String>(versions);
             attributes.put("osVersions", tmp);
             versions.clear();
+
+            // deviceWidth
+            String widthV1 = Integer.toString(getScreenWidth(attributesV1));
+            String widthV2 = Integer.toString(getScreenWidth(attributesV2));
+            versions.put(v1, widthV1);
+            versions.put(v2, widthV2);
+            tmp = new HashMap<String,String>(versions);
+            attributes.put("deviceWidth",tmp);
+            versions.clear();
+
+            // deviceHeight
+            String heightV1 = Integer.toString(getScreenHeight(attributesV1));
+            String heightV2 = Integer.toString(getScreenHeight(attributesV2));
+            versions.put(v1, heightV1);
+            versions.put(v2, heightV2);
+            tmp = new HashMap<String,String>(versions);
+            attributes.put("deviceHeight",tmp);
+            versions.clear();
+
+            // isRobot
+            String isRobotV1 = String.valueOf(Attributes.isRobot.hasAttribute(attributesV1));
+            String isRobotV2 = String.valueOf(Attributes.isRobot.hasAttribute(attributesV2));
+            versions.put(v1, isRobotV1);
+            versions.put(v2, isRobotV2 );
+            tmp = new HashMap<String,String>(versions);
+            attributes.put("isRobot",tmp);
+            versions.clear();
+
+            // javaScriptSupported
+            versions.put(v1, Attributes.javaScriptSupported.get(attributesV1));
+            versions.put(v2, Attributes.javaScriptSupported.get(attributesV2));
+            tmp = new HashMap<String,String>(versions);
+            attributes.put("javaScriptSupported",tmp);
+            versions.clear();
+
+            //.setTablet(Attributes.isTablet.hasAttribute(attributes))
+            String isTabletV1 = String.valueOf(Attributes.isTablet.hasAttribute(attributesV1));
+            String isTabletV2 = String.valueOf(Attributes.isTablet.hasAttribute(attributesV2));
+            versions.put(v1, isTabletV1);
+            versions.put(v2, isTabletV2);
+            tmp = new HashMap<String,String>(versions);
+            attributes.put("isTablet",tmp);
+            versions.clear();
+
+
             return attributes;
     }
 
@@ -160,6 +208,40 @@ public class DeviceAtlas {
             Object valueV2 = attributes.get(key).get("v2");
             System.out.println("Key: " + key + " - " + "Version: 1.7, Value: " + valueV1 + " -- Version: 2.1, Value: " + valueV2 );
         }
+    }
+
+    public int getScreenHeight( Map<String, Object> attributes) {
+        int height= 144;
+        try {
+            String res = (String) attributes.get(Attributes.displayHeight.toString());
+           height= Integer.parseInt(res);
+        } catch(Exception e){}
+        return height;
+    }
+
+    public int getScreenHeight(Properties attributes) {
+        int height= 144;
+        try {
+            height =  attributes.get(Attributes.displayHeight.toString()).asInteger();
+        } catch(Exception e){}
+        return height;
+    }
+
+    public int getScreenWidth( Map<String, Object> attributes) {
+        int width = 176;
+        try {
+            String res = (String) attributes.get(Attributes.displayWidth.toString());
+            width = Integer.parseInt(res);
+        } catch(Exception e){}
+        return width;
+    }
+
+    public int getScreenWidth( Properties attributes) {
+        int width = 176;
+        try {
+            width =  attributes.get(Attributes.displayWidth.toString()).asInteger();
+        } catch(Exception e){}
+        return width;
     }
 
     private String determineName(Map<String, Object> attributes) {
@@ -350,6 +432,7 @@ public class DeviceAtlas {
             return false;
         }
 
+
     }
-    
+
 }
