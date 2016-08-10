@@ -31,7 +31,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class Demo {
-
+	
 	private static final Logger logger = LoggerFactory.getLogger(Demo.class);
 	private static DefaultParser parser = new DefaultParser();
 	private static Options options = new Options();
@@ -61,32 +61,34 @@ public class Demo {
 		Demo.createOptions();
 		String inputFilename, outputFilename = null;
 		Integer readLimit = null;
-		
+
+		// Parse options to get commandLine
 		try {
 			commandLine = parser.parse(options, args);
 		} catch (ParseException e) {
 			printUsage("ERROR " + e.getMessage());
 		}
-		
+
+		// To print usage information if the user selects help option
 		if( commandLine.hasOption('h') ) { 
 			printUsage(); 
 			return;
-		} else if (commandLine.getOptions().length < 2) {
+		} 
+		// Error if the two required arguments are not provided
+		else if (commandLine.getOptions().length < 2) {
 			printUsage("ERROR: Arguments missing");
 		}
-		
+
 		try {
 			readLimit = Integer.parseInt(commandLine.getOptionValue("readLimit","0"));
 		} catch(NumberFormatException e) {
 			System.out.println("Limit should be in integer" + e.getMessage());
 		}
-
 		inputFilename = commandLine.getOptionValue("inputFileName");
 		outputFilename = commandLine.getOptionValue("outputFileName");
 
-		System.out.println("<--------- Starting file read ------------->");
+		// Read data from the input file
 		List<UserAgentData> userAgents = readData(inputFilename);
-		System.out.println("<--------- File read complete ------------->");
 
 		if(readLimit==0)
 			readLimit=userAgents.size();
@@ -95,21 +97,23 @@ public class Demo {
 		String atlasV1Filename = "./deviceAtlas/deviceAtlas1_7.json";
 		String atlasV2Filename = "./deviceAtlas/deviceAtlas2_1.json";
 
-		// Sample userAgent
-		// String userAgent = "Mozilla/5.0 (Linux; Android 6.0.1; HTC Desire EYE Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.2564.106 Mobile Safari/537.36";
-		// String userAgent = "Mozilla/5.0 (Linux; Android 4.4.4; XT1025 Build/KXC21.5-40) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36";
-
 		// Creates DeviceAtlas object
 		DeviceAtlas atlas = new DeviceAtlas(atlasV1Filename, atlasV2Filename);
+
+		// Creates PrintWriter objects 
 		PrintWriter pwForDifferences = null;
 		PrintWriter pwForUnknowns = null;
 		try{
 			pwForDifferences = new PrintWriter(outputFilename);
-			pwForUnknowns = new PrintWriter("OldVersionNullUnknowns.csv"); // Contains the null/unknown make/madel for older version
-		
-			pwForDifferences.println("UserAgentString,"+"Key,"+"Version 1.7 Value,"+"Version 2.1 Value");
-			pwForUnknowns.println("UserAgentString,"+"Key,"+"Version 1.7 Value,"+"Version 2.1 Value");
-			
+
+			// Contains the null/unknown values for make/madel of older version
+			pwForUnknowns = new PrintWriter("OldVersionNullUnknowns.csv"); 
+
+			// Headers for both output files
+			pwForDifferences.println("UserAgentString,"+"Key,"+"Version 1.7,"+"Version 2.1");
+			pwForUnknowns.println("UserAgentString,"+"Key,"+"Version 1.7,"+"Version 2.1");
+
+			// Loop to populate the output csv files
 			for(int i=0; i< readLimit; i++){
 				HashMap <String, Map> diff = findDiff(atlas,userAgents.get(i).getUserAgent());
 				for (String key : diff.keySet()){
@@ -131,22 +135,33 @@ public class Demo {
 		}
 	}
 
+	/** findDiff : DeviceAtlas, String -> HashMap<String,Map>
+	 *  Given    : an object of DeviceAtlas class and an userAgent string
+	 *  Returns  : the differences in attributes of deviceAtlas version 
+	 *             1.7 and version 2.1 for a given userAgent string. 
+	 *  Strategy : Using function getDif(String, Map<String, Object>, Properties)
+	 *             from DeviceAtlas class to get the differences in attributes.*/
 	public static HashMap <String, Map> findDiff(DeviceAtlas atlas,String userAgent){
-		Map<String, Object> attributesV1 = atlas.getV1DeviceAttributes(userAgent); // Gets Attributes from deviceAtlas1_7 api
-		Properties attributesV2 = atlas.getV2DeviceAttributes(userAgent); // Gets Attributes from deviceAtlas2.1 api
-		HashMap <String, Map> diff = atlas.getDif(userAgent, attributesV1, attributesV2); // Returns difference from the two attributes
+		// Get Attributes from deviceAtlas1_7 api
+		Map<String, Object> attributesV1 = atlas.getV1DeviceAttributes(userAgent);
+		// Get Attributes from deviceAtlas2.1 api
+		Properties attributesV2 = atlas.getV2DeviceAttributes(userAgent); 
+		// Returns difference from the two attributes
+		HashMap <String, Map> diff = atlas.getDif(userAgent, attributesV1, attributesV2); 
 		return diff;
 	}
 
 	/** readData : String -> List<UserAgentData>
 	 *  Given    : Input file to be read
 	 *  Returns  : A list of type UserAgentData containing the number of occurences
-	 *  and user agent strings. */
+	 *             and user agent strings. */
 	private static List<UserAgentData> readData(String filename) {
 		BufferedReader br = null;
 		String line = "";
-		String splitBy = "(\\\"user-agent\\\")(:)";
-		List<UserAgentData> userAgents = new ArrayList<UserAgentData>();
+		// regex to split given user agent string
+		String splitBy = "(\\\"user-agent\\\")(:)"; 
+		// Contains all the given user agent strings and their occurences
+		List<UserAgentData> userAgents = new ArrayList<UserAgentData>(); 
 		try {
 			br = new BufferedReader(new FileReader(filename));
 			while ((line = br.readLine()) != null) {
@@ -173,6 +188,9 @@ public class Demo {
 		return userAgents;
 	}
 
+	/** createOptions : void -> void
+	 *  Used to populate options to be provided to the command line.
+	 *  Examples: --inputFileName (The name of the input file to be read) */
 	private static void createOptions() {
 		options.addOption(getOption("inputFileName", true, "Input Data Filename", "String"));
 		options.addOption(getOption("outputFileName", true, "Output Filename", "String"));
@@ -180,6 +198,12 @@ public class Demo {
 		options.addOption("h", "help", false, "Print Usage Information");
 	}
 
+	/** getOption : String, boolean, String, String -> Option
+	 *  Given     : a string representing the long name of the 
+	 *              option, a boolean, a description string, a 
+	 *              string representing the type of the option.
+	 *  Returns   : an object of Option class created according 
+	 *              to the given arguments. */
 	private static Option getOption(String longOpt, boolean isRequired, String description, String argType) {
 		Option o = new Option(null, longOpt, isRequired, description);
 		o.setArgName(argType);
@@ -188,12 +212,20 @@ public class Demo {
 		return o;
 	}
 
+	/** printUsage : String -> void
+	 *  Prints the given message alongwith the usage options.
+	 *  Example: "Error: Arguments missing"
+	 *            (If the arguments provided on the command 
+	 *            line are less than required.)*/
 	private static void printUsage(String message) {
 		System.out.println(message + "\n");
 		printUsage();
 		System.exit(-1);
 	}
 
+	/** printUsage : void -> void
+	 *  Prints the usage information mentioning the name, description
+	 *  and argument type of all arguments*/
 	private static void printUsage() {
 		HelpFormatter helpFormatter = new HelpFormatter();
 		helpFormatter.setWidth(80);
