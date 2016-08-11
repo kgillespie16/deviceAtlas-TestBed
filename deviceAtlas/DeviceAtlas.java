@@ -90,13 +90,6 @@ public class DeviceAtlas {
             HashMap <String, String> versions = new HashMap<String, String>(2);
             HashMap <String, String> tmp;
 
-            // MODEL
-            versions.put(v1, determineName(attributesV1));
-            versions.put(v2, determineName(attributesV2));
-            tmp = new HashMap<String, String>(versions);
-            attributes.put("model", tmp);
-            versions.clear();
-
             // VENDOR
             versions.put(v1, Attributes.vendor.get(attributesV1));
             if(attributesV2.get("vendor")!=null)
@@ -106,12 +99,18 @@ public class DeviceAtlas {
             versions.clear();
 
             // MANU
-
             versions.put(v1, Attributes.manufacturer.get(attributesV1));
             if(attributesV2.get("manufacturer")!=null)
             versions.put(v2, attributesV2.get("manufacturer").asString());
             tmp = new HashMap<String, String>(versions);
             attributes.put("manufacturer", tmp);
+            versions.clear();
+
+            // MODEL
+            versions.put(v1, determineName(attributesV1));
+            versions.put(v2, determineName(attributesV2));
+            tmp = new HashMap<String, String>(versions);
+            attributes.put("model", tmp);
             versions.clear();
 
             // OSNAME

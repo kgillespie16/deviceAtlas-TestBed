@@ -101,17 +101,25 @@ public class Demo {
 		DeviceAtlas atlas = new DeviceAtlas(atlasV1Filename, atlasV2Filename);
 
 		// Creates PrintWriter objects
+		PrintWriter pwForAttributes = null;
 		PrintWriter pwForDifferences = null;
 		PrintWriter pwForUnknowns = null;
 		try{
-			pwForDifferences = new PrintWriter(outputFilename);
+			// Contains values for attributes vendor, manufacturer and model for both versions
+			pwForAttributes = new PrintWriter(outputFilename);
+
+			// Contains differences between vendor of DA1.7 and manufacturer of DA2.1
+			pwForDifferences = new PrintWriter("outputDiff.csv");
 
 			// Contains the null/unknown values for make/madel of older version
 			pwForUnknowns = new PrintWriter("OldVersionNullUnknowns.csv");
 
-			// Headers for both output files
+			// Headers for output files
+			pwForAttributes.println("UserAgentString,"+"Version1.7 Vendor,"+"Version1.7 Manufacturer,"+"Version1.7 Model,"+
+					"Version2.1 Vendor,"+"Version2.1 Manufacturer,"+"Version2.1 Model");
 			pwForDifferences.println("UserAgentString,"+"Key,"+"Version 1.7,"+"Version 2.1");
-			pwForUnknowns.println("UserAgentString,"+"Key,"+"Version 1.7,"+"Version 2.1");
+			pwForUnknowns.println("UserAgentString,"+"Version1.7 Vendor,"+"Version1.7 Manufacturer,"+"Version1.7 Model,"+
+					"Version2.1 Vendor,"+"Version2.1 Manufacturer,"+"Version2.1 Model");
 
 			// Loop to populate the output csv files
 			for(int i=0; i< readLimit; i++){
@@ -119,17 +127,41 @@ public class Demo {
 				// Returns map of both device atlas attributes
 				// Access the same as diff map but contains both equal and different values. keys manufacturer & vendor are now seperate
 				HashMap <String, Map> attributes = getAttributes(atlas,userAgents.get(i).getUserAgent());
-
+				Object vendorValueV1=null, manuValueV1 = null, modelValueV1 = null;
+				Object vendorValueV2 = null, manuValueV2 = null, modelValueV2 = null;
+				for(String key : attributes.keySet()){
+					if(key.equals("vendor")){
+						vendorValueV1 = attributes.get(key).get("v1");
+						vendorValueV2 = attributes.get(key).get("v2");
+					}
+					if(key.equals("manufacturer")){
+						manuValueV1 = attributes.get(key).get("v1");
+						manuValueV2 = attributes.get(key).get("v2");
+					}
+					if(key.equals("model")){
+						modelValueV1 = attributes.get(key).get("v1");
+						modelValueV2 = attributes.get(key).get("v2");
+					}
+				}
+				if(vendorValueV1==null && modelValueV1=="UnKnown"){
+					pwForUnknowns.println("\""+userAgents.get(i).getUserAgent() + "\"" + "," + vendorValueV1+ ","+ manuValueV1 + ","+modelValueV1+","+
+							vendorValueV2+","+manuValueV2+","+modelValueV2+",");
+				}else{
+					pwForAttributes.println("\""+userAgents.get(i).getUserAgent() + "\"" + "," + vendorValueV1+ ","+ manuValueV1 + ","+modelValueV1+","+
+							vendorValueV2+","+manuValueV2+","+modelValueV2+",");
+				}
+				
 				for (String key : diff.keySet()){
 					Object valueV1 = diff.get(key).get("v1");
 					Object valueV2 = diff.get(key).get("v2");
 					if(valueV1==null || valueV1=="UnKnown"){
-						pwForUnknowns.println("\""+userAgents.get(i).getUserAgent() + "\"" + "," + key + "," + valueV1 + "," + valueV2);
+						//pwForUnknowns.println("\""+userAgents.get(i).getUserAgent() + "\"" + "," + key + "," + valueV1 + "," + valueV2);
 					}else{
 						pwForDifferences.println("\""+userAgents.get(i).getUserAgent()+"\"" + "," + key + ","+ valueV1 + "," + valueV2 );
 					}
 				}
 			}
+			pwForAttributes.close();
 			pwForDifferences.close();
 			pwForUnknowns.close();
 		}
@@ -157,9 +189,12 @@ public class Demo {
 
 	/* Similar to findDiff but doesn't remove any equal values from map.  */
 	public static HashMap <String, Map> getAttributes(DeviceAtlas atlas,String userAgent){
-		Map<String, Object> attributesV1 = atlas.getV1DeviceAttributes(userAgent); // Gets Attributes from deviceAtlas1_7 api
-		Properties attributesV2 = atlas.getV2DeviceAttributes(userAgent); // Gets Attributes from deviceAtlas2.1 api
-		HashMap <String, Map> attributes = atlas.combineAttributes(userAgent, attributesV1, attributesV2); // Returns difference from the two attributes
+		// Gets Attributes from deviceAtlas1_7 api
+		Map<String, Object> attributesV1 = atlas.getV1DeviceAttributes(userAgent);
+		// Gets Attributes from deviceAtlas2.1 api
+		Properties attributesV2 = atlas.getV2DeviceAttributes(userAgent);
+		// Returns difference from the two attributes
+		HashMap <String, Map> attributes = atlas.combineAttributes(userAgent, attributesV1, attributesV2); 
 		return attributes;
 	}
 
