@@ -202,6 +202,7 @@ UserAgentString,Version1.7 Vendor,Version1.7 Manufacturer,Version1.7 Model,Versi
 "Mozilla/5.0 (Linux; Android 5.1.1; SM-J110M Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J110M
 "Mozilla/5.0 (Linux; Android 5.1.1; SM-G531M Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G531M
 "Words 7.70 (iPhone; iPhone OS 9.3.2; en_US)",null,null,UnKnown,null,null,UnKnown
+"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko",null,null,Non-Mobile,null,null,Non-Mobile
 "Mozilla/5.0 (Linux; Android 6.0; XT1078 Build/MPB24.65-34; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Motorola,Motorola,XT1078
 "Mozilla/5.0 (Linux; Android 6.0.1; XT1563 Build/MPD24.107-52; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Motorola,Motorola,XT1563
 "Mozilla/5.0 (Linux; Android 6.0.1; SM-N910V Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256430.8487000.1)",null,Samsung,UnKnown,Verizon,Samsung,SM-N910V
@@ -259,6 +260,7 @@ UserAgentString,Version1.7 Vendor,Version1.7 Manufacturer,Version1.7 Model,Versi
 "Mozilla/5.0 (Linux; Android 4.4.4; SM-G130BU Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G130BU
 "Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM;Touch)",null,null,UnKnown,Unknown,null,Generic Windows Phone
 "WindowsPhoneAdClient/8.1.40505.0 (XAML; MRAID_1_0; Windows Phone OS 6.3; Microsoft; Virtual)",null,null,UnKnown,HTC,HTC,8X
+"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36",null,null,Non-Mobile,null,null,Non-Mobile
 "Mozilla/5.0 (Linux; Android 6.0; LG-H343 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,LG,LG,H343
 "Mozilla/5.0 (Linux; Android 6.0; HUAWEI VNS-L31 Build/HUAWEIVNS-L31; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Huawei,UnKnown,null,Huawei,UnKnown
 "Mozilla/5.0 (Linux; Android 6.0.1; SM-N920P Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.8487000.1)",null,Samsung,UnKnown,Samsung,Samsung,SM-N920P
@@ -295,6 +297,8 @@ UserAgentString,Version1.7 Vendor,Version1.7 Manufacturer,Version1.7 Model,Versi
 "Mozilla/5.0 (Linux; Android 4.4.2; SM-G800H Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G800H
 "Mozilla/5.0 (Linux; Android 4.4.2; ASUS_T00J Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36",null,Asus,UnKnown,Asus,Asus,T00J
 "Dalvik/2.1.0 (Linux; U; Android 5.1; XT1254 Build/SU4TL-49)",null,Motorola,UnKnown,Motorola,Motorola,XT1254
+"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36",null,null,Non-Mobile,null,null,Non-Mobile
+"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0",null,null,Non-Mobile,null,null,Non-Mobile
 "Mozilla/5.0 (Linux; Android 6.0.1; SM-N920T Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.8487000.1)",null,Samsung,UnKnown,T-Mobile,Samsung,SM-N920T
 "Mozilla/5.0 (Linux; Android 6.0.1; SM-N915F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N915F
 "Mozilla/5.0 (Linux; Android 6.0.1; SM-J710F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,UnKnown

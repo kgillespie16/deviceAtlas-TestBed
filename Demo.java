@@ -143,7 +143,7 @@ public class Demo {
 						modelValueV2 = attributes.get(key).get("v2");
 					}
 				}
-				if(vendorValueV1==null && modelValueV1=="UnKnown"){
+				if(vendorValueV1==null || (vendorValueV1==null && modelValueV1=="UnKnown")){
 					pwForUnknowns.println("\""+userAgents.get(i).getUserAgent() + "\"" + "," + vendorValueV1+ ","+ manuValueV1 + ","+modelValueV1+","+
 							vendorValueV2+","+manuValueV2+","+modelValueV2);
 				}else{
