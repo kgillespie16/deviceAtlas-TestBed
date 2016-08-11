@@ -145,10 +145,10 @@ public class Demo {
 				}
 				if(vendorValueV1==null && modelValueV1=="UnKnown"){
 					pwForUnknowns.println("\""+userAgents.get(i).getUserAgent() + "\"" + "," + vendorValueV1+ ","+ manuValueV1 + ","+modelValueV1+","+
-							vendorValueV2+","+manuValueV2+","+modelValueV2+",");
+							vendorValueV2+","+manuValueV2+","+modelValueV2);
 				}else{
 					pwForAttributes.println("\""+userAgents.get(i).getUserAgent() + "\"" + "," + vendorValueV1+ ","+ manuValueV1 + ","+modelValueV1+","+
-							vendorValueV2+","+manuValueV2+","+modelValueV2+",");
+							vendorValueV2+","+manuValueV2+","+modelValueV2);
 				}
 				
 				for (String key : diff.keySet()){

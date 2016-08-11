@@ -1,305 +1,305 @@
 UserAgentString,Version1.7 Vendor,Version1.7 Manufacturer,Version1.7 Model,Version2.1 Vendor,Version2.1 Manufacturer,Version2.1 Model
-"spray-can/1.3.3",null,null,UnKnown,null,null,UnKnown,
-"NING/1.0",null,null,UnKnown,null,null,UnKnown,
-"Jersey/2.22.2 (HttpUrlConnection 1.8.0_91)",null,null,UnKnown,null,null,UnKnown,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G920F,
-"Mozilla/5.0 (Linux; Android 4.4.2; GT-I9301I Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Samsung,Samsung,GT-I9301I,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920V Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-G920V,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920P Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Sprint,Samsung,SM-G920P,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-G531H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G531H,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G930V Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-G930V,
-"Mozilla/5.0 (Linux; Android 5.1; XT1254 Build/SU4TL-49; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Motorola,Motorola,XT1254,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-N920V Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N920V,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J500FN Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J500FN,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G925F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G925F,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-N910V Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-N910V,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-N920T Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,T-Mobile,Samsung,SM-N920T,
-"Mozilla/5.0 (Linux; Android 6.0; XT1585 Build/MCK24.78-13.16; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Motorola,Motorola,XT1585,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-N920P Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N920P,
-"Mozilla/5.0 (Linux; Android 4.4.4; SM-J100H Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J100H,
-"Mozilla/5.0 (Linux; Android 4.4.4; SM-G530H Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G530H,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-G800F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G800F,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G935F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G935F,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G935V Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-G935V,
-"WindowsAdClient/8.1.40402.2 (Windows; XAML)",null,null,UnKnown,null,null,UnKnown,
-"Mozilla/5.0 (Linux; Android 5.0.2; SM-A300FU Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-A300FU,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G930P Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G930P,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920T Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G920T,
-"Mozilla/5.0 (Linux; Android 5.1.1; KFFOWI Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.51020.2250.0268 Safari/537.36",null,null,UnKnown,Amazon,Amazon,Fire (2015),
-"Mozilla/5.0 (Linux; Android 4.4.4; SM-J110H Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J110H,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-G531F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G531F,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G930T Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,T-Mobile,Samsung,SM-G930T,
-"Mozilla/5.0 (Linux; Android 4.4.4; SM-S820L Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-S820L,
-"Mozilla/5.0 (Linux; Android 5.0.2; SM-A500FU Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-A500FU,
-"Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-N920A Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N920A,
-"SpotXchange/3.0 (+http://search.spotxchange.com/spotmarket.html)",null,null,UnKnown,null,null,UnKnown,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J500M Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J500M,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J700F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J700F,
-"Mozilla/5.0 (Linux; Android 5.1.1; 5054N Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Alcatel,Alcatel,5054N,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J700M Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J700M,
-"Jersey/2.22.2 (HttpUrlConnection 1.8.0_66)",null,null,UnKnown,null,null,UnKnown,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-N910T Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,T-Mobile,Samsung,SM-N910T,
-"Mozilla/5.0 (Linux; Android 4.4.4; Z970 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,null,UnKnown,ZTE,ZTE,Z970,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G930F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Orange,Samsung,SM-G930F,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G935P Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G935P,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G935T Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,T-Mobile,Samsung,SM-G935T,
-"Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG-SM-N910A Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,AT&T,Samsung,SM-N910A,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-G530T1 Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G530T1,
-"Mozilla/5.0 (Linux; Android 4.4.4; SM-G530BT Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G530BT,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J700H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J700H,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J500F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J500F,
-"Mozilla/5.0 (Linux; Android 5.1; Z812 Build/LMY47O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,ZTE,ZTE,Z812,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G928T Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G928T,
-"Mozilla/5.0 (Linux; Android 4.4.4; GT-I9300I Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Samsung,Samsung,GT-I9300I,
-"Guzzle/5.3.0 curl/7.38.0 PHP/5.6.20-0+deb8u1",null,null,UnKnown,null,null,UnKnown,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J500H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J500H,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-N910P Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Sprint,Samsung,SM-N910P,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N910F,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G928V Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G928V,
-"Java/1.8.0_60",null,null,UnKnown,null,null,UnKnown,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-N920C Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N920C,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-N910C Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N910C,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G925V Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-G925V,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J200F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J200F,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-A310F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-A310F,
-"Mozilla/5.0 (Linux; Android 5.0.2; SM-G530H Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G530H,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J200H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J200H,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-G530T Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,T-Mobile,Samsung,SM-G530T,
-"Java/1.8.0_91",null,null,UnKnown,null,null,UnKnown,
-"Mozilla/5.0 (Linux; Android 6.0; LG-H811 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,T-Mobile,LG,H811,
-"Mozilla/5.0 (Linux; Android 5.0.2; SM-S920L Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-S920L,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G925T Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G925T,
-"Mozilla/5.0 (Linux; Android 6.0.1; D5803 Build/23.5.A.0.575; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Sony,Sony,D5803,
-"Mozilla/5.0 (Linux; Android 5.1; XT1526 Build/LPI23.29-18-S.12; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Sprint,Motorola,XT1526,
-"Mozilla/5.0 (Linux; Android 5.1.1; Z828 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,ZTE,ZTE,Z828,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-G531H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G531H,
-"Mozilla/5.0 (Linux; Android 5.0.2; SM-A500F Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-A500F,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-J500M Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J500M,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J320P Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J320P,
-"Java/1.8.0_45",null,null,UnKnown,null,null,UnKnown,
-"Mozilla/5.0 (Linux; Android 6.0; LG-H901 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,LG,LG,H901,
-"Mozilla/5.0 (Linux; Android 5.1; HTCD100LVWPP Build/LMY47O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,HTC,UnKnown,HTC,HTC,Desire 526,
-"Mozilla/5.0 (Linux; Android 5.0.2; SM-A500H Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-A500H,
-"Mozilla/5.0 (Linux; Android 6.0.1; D6603 Build/23.5.A.0.575; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Sony,Sony,D6603,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J110M Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J110M,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-A510F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-A510F,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920V Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-G920V,
-"Mozilla/5.0 (Linux; Android 4.4.2; ASUS_T00J Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,Asus,UnKnown,Asus,Asus,T00J,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920R4 Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G920R4,
-"Java/1.7.0_80",null,null,UnKnown,null,null,UnKnown,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G925P Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Sprint,Samsung,SM-G925P,
-"Mozilla/5.0 (Linux; Android 4.4.4; SM-G530M Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G530M,
-"Mozilla/5.0 (Linux; Android 6.0; LG-H631 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,T-Mobile,LG,H631,
-"Mozilla/5.0 (Linux; Android 6.0.1; XT1565 Build/MCD24.107-51.4; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Motorola,Motorola,XT1565,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G930R4 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G930R4,
-"Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-J320AZ Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Cricket,Samsung,SM-J320AZ,
-"Mozilla/5.0 (Linux; Android 5.1.1; Z828 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.2311.137 Mobile Safari/537.36",null,null,UnKnown,ZTE,ZTE,Z828,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J120H Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J120H,
-"Mozilla/5.0 (Linux; Android 5.0.2; SM-G850F Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G850F,
-"Mozilla/5.0 (Linux; Android 5.0.2; SM-A300H Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-A300H,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-G531H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G531H,
-"Mozilla/5.0 (Linux; Android 5.0; ASUS_Z00AD Build/LRX21V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Asus,UnKnown,Asus,Asus,ZE551ML (Z00AD),
-"Mozilla/5.0 (Linux; Android 4.4.4; A462C Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Alcatel,Alcatel,A462C,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920V Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.8487000.1)",null,Samsung,UnKnown,Verizon,Samsung,SM-G920V,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J320FN Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J320FN,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920I Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G920I,
-"Mozilla/5.0 (Linux; Android 5.1; XT1528 Build/LPIS23.29-17.5-2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Motorola,Motorola,XT1528,
-"Mozilla/5.0 (Linux; Android 4.4.2; 7040N Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Alcatel,Alcatel,7040N,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-N910T Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,T-Mobile,Samsung,SM-N910T,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G930V Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-G930V,
-"Mozilla/5.0 (Linux; Android 5.1; Z820 Build/LMY47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.2311.137 Mobile Safari/537.36",null,null,UnKnown,ZTE,ZTE,Z820,
-"Mozilla/5.0 (Linux; Android 5.1.1; 5054N Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256236.6587000.1)",null,null,UnKnown,Alcatel,Alcatel,5054N,
-"Mozilla/5.0 (Linux; Android 5.1; 0PM92 Build/LMY47O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,null,UnKnown,HTC,HTC,Desire 626s,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G928P Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G928P,
-"Mozilla/5.0 (Linux; Android 5.1; XT1254 Build/SU4TL-49; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256230.8487000.1)",null,null,UnKnown,Motorola,Motorola,XT1254,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G928F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G928F,
-"Mozilla/5.0 (Linux; Android 5.1; Z958 Build/LMY47O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,ZTE,ZTE,Z958,
-"Mozilla/5.0 (Linux; Android 5.1.1; 5054N Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,null,UnKnown,Alcatel,Alcatel,5054N,
-"Mozilla/5.0 (Linux; Android 4.4.4; Y635-L01 Build/HuaweiY635-L01) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Huawei,Huawei,Y635-L01,
-"Mozilla/5.0 (Linux; Android 4.4.4; SM-J110F Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J110F,
-"Mozilla/5.0 (Linux; Android 4.4.4; SM-J100MU Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J100MU,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G925I Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G925I,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G860P Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Sprint,Samsung,SM-G860P,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J320M Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J320M,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J200M Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J200M,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-G531BT Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G531BT,
-"Mozilla/5.0 (Linux; Android 5.1.1; 5017B Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Alcatel,Alcatel,5017B,
-"Mozilla/5.0 (Linux; Android 6.0; LG-H900 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,LG,LG,H900,
-"Mozilla/5.0 (Linux; Android 6.0; LG-H810 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,AT&T,LG,H810,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-G920F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G920F,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-G530T1 Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G530T1,
-"Mozilla/5.0 (Linux; Android 5.0.2; 6045O Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Alcatel,Alcatel,6045O,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-J700T Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,UnKnown,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920V Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.6587000.1)",null,Samsung,UnKnown,Verizon,Samsung,SM-G920V,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J320F Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J320F,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-G920V Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-G920V,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-G531F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G531F,
-"Mozilla/5.0 (Linux; Android 4.4.2; Tab2A7-10F Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36",null,null,UnKnown,Lenovo,Lenovo,A7-10F,
-"Mozilla/5.0 (Linux; Android 4.4.2; SM-G110B Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G110B,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J200BT Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J200BT,
-"Mozilla/5.0 (Linux; Android 5.0.2; SM-G530FZ Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G530FZ,
-"Mozilla/5.0 (Linux; Android 5.0.2; SM-A300F Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-A300F,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-N920T Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.6587000.1)",null,Samsung,UnKnown,T-Mobile,Samsung,SM-N920T,
-"Mozilla/5.0 (Linux; Android 5.1; Z820 Build/LMY47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,ZTE,ZTE,Z820,
-"Mozilla/5.0 (Linux; U; Android 4.3; en-us; C6530N Build/JLS36C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",null,null,UnKnown,Kyocera,Kyocera,C6530N,
-"Mozilla/5.0 (Linux; Android 6.0; LG-H815 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,LG,LG,H815,
-"Mozilla/5.0 (Linux; Android 5.1; Z812 Build/LMY47O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.2311.137 Mobile Safari/537.36",null,null,UnKnown,ZTE,ZTE,Z812,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J500F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J500F,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J105B Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J105B,
-"Mozilla/5.0 (Linux; Android 5.0.2; SM-A500M Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-A500M,
-"Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-J320AZ Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256436.6587000.1)",null,Samsung,UnKnown,Cricket,Samsung,SM-J320AZ,
-"Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-J320A Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J320A,
-"Mozilla/5.0 (Linux; Android 5.1; HUAWEI RIO-L01 Build/HuaweiRIO-L01) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36",null,Huawei,UnKnown,Huawei,Huawei,RIO-L01,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J700H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J700H,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J500H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J500H,
-"Mozilla/5.0 (Linux; Android 5.1.1; LG-H631 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,T-Mobile,LG,H631,
-"Mozilla/5.0 (Linux; Android 5.1.1; KYOCERA-C6745 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Kyocera,Kyocera,C6745,
-"ADmantX Platform Semantic Analyzer Appnexus - ADmantX Inc. - www.admantx.com - support@admantx.com",null,null,UnKnown,null,null,UnKnown,
-"Words HD Free 7.02 (iPad; iPhone OS 9.3.2; en_US)",null,null,UnKnown,null,null,UnKnown,
-"Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-S975L Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",null,Samsung,UnKnown,Samsung,Samsung,SM-S975L,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-N910H Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N910H,
-"Mozilla/5.0 (Linux; Android 4.4.2; Tab2A7-20F Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36",null,null,UnKnown,Lenovo,Lenovo,A7-20F,
-"Opera/9.80 (Android; Opera Mini/7.6.40234/37.8743; U; en) Presto/2.12.423 Version/12.16",null,null,UnKnown,null,null,UnKnown,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J700F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J700F,
-"Mozilla/5.0 (Linux; Android 4.4.2; T1 7.0 Build/HuaweiMediaPad) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36",null,null,UnKnown,Huawei,Huawei,T1-701u,
-"Mozilla/5.0 (Linux; Android 4.4.2; SM-G800F Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G800F,
-"Mozilla/5.0 (Linux; Android 4.4.2; etab5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36",null,null,UnKnown,General Mobile,General Mobile,E-Tab 5,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-N920R4 Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N920R4,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920F Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G920F,
-"Mozilla/5.0 (Linux; Android 4.4.2; 0PCV1 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,null,UnKnown,HTC,HTC,Desire 510,
-"Mozilla/5.0 (Linux; Android 6.0; HTC6535LVW Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,HTC,UnKnown,HTC,HTC,6535LVW,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-N920V Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.8487000.1)",null,Samsung,UnKnown,Samsung,Samsung,SM-N920V,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G930V Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.2564.106 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-G930V,
-"Mozilla/5.0 (Linux; Android 5.1; XT1254 Build/SU4TL-49) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Motorola,Motorola,XT1254,
-"Mozilla/5.0 (Linux; Android 5.1; HTCD200LVW Build/LMY47O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,HTC,UnKnown,HTC,HTC,Desire 526,
-"Mozilla/5.0 (Linux; Android 5.1.1; VS425PP Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Verizon,LG,VS425PP,
-"Mozilla/5.0 (Linux; Android 5.1.1; LG-H345 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,LG,LG,H345,
-"Mozilla/5.0 (Linux; Android 4.4.4; Z987 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,null,UnKnown,ZTE,ZTE,Z987,
-"Mozilla/5.0 (Linux; Android 4.4.4; D5103 Build/18.1.A.2.25) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Sony,Sony,D5103,
-"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6P Build/MTC19X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Google,Huawei,Nexus 6P,
-"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MOB30O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Google,Motorola,Nexus 6,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-E500H Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-E500H,
-"Mozilla/5.0 (Linux; Android 5.1.1; LG-H343 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,LG,LG,H343,
-"Mozilla/5.0 (Linux; Android 5.1.1; KIW-L21 Build/HONORKIW-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Huawei,Huawei,KIW-L21,
-"Mozilla/5.0 (Linux; Android 4.4.4; SM-G530F Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G530F,
-"Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-S765C Build/JLS36C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",null,Samsung,UnKnown,Samsung,Samsung,SM-S765C,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G930T Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.6587000.1)",null,Samsung,UnKnown,T-Mobile,Samsung,SM-G930T,
-"Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-J120AZ Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,null,Samsung,UnKnown,
-"Mozilla/5.0 (Linux; Android 5.1.1; Z959 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,ZTE,ZTE,Z959,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-N7505 Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N7505,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J500H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J500H,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J200H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J200H,
-"Mozilla/5.0 (Linux; Android 4.4.4; SM-N910T Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,T-Mobile,Samsung,SM-N910T,
-"Mozilla/5.0 (Linux; Android 4.4.4; 5042T Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Alcatel,Alcatel,5042T,
-"Mozilla/5.0 (Linux; Android 4.4.2; VS415PP Build/KOT49I.VS415PP2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Verizon,LG,VS415PP,
-"Mozilla/5.0 (Linux; Android 4.4.2; SM-S902L Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-S902L,
-"Mozilla/5.0 (Linux; Android 4.4.2; SM-N7505 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N7505,
-"talkmeim/9037 CFNetwork/758.4.3 Darwin/15.5.0",null,null,UnKnown,null,null,UnKnown,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-J700T1 Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,UnKnown,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G930V Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.8487000.1)",null,Samsung,UnKnown,Verizon,Samsung,SM-G930V,
-"Mozilla/5.0 (Linux; Android 6.0.1; A0001 Build/MHC19Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,OnePlus,OnePlus,A0001,
-"Mozilla/5.0 (Linux; Android 5.1; 5015A Build/LMY47I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Alcatel,Alcatel,5015A,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J110M Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J110M,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-G531M Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G531M,
-"Words 7.70 (iPhone; iPhone OS 9.3.2; en_US)",null,null,UnKnown,null,null,UnKnown,
-"Mozilla/5.0 (Linux; Android 6.0; XT1078 Build/MPB24.65-34; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Motorola,Motorola,XT1078,
-"Mozilla/5.0 (Linux; Android 6.0.1; XT1563 Build/MPD24.107-52; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Motorola,Motorola,XT1563,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-N910V Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256430.8487000.1)",null,Samsung,UnKnown,Verizon,Samsung,SM-N910V,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-N910T3 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,T-Mobile,Samsung,SM-N910T3,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-J700P Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,UnKnown,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920T Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.2564.106 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G920T,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-G800H Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G800H,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-G530T Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.2311.137 Mobile Safari/537.36",null,Samsung,UnKnown,T-Mobile,Samsung,SM-G530T,
-"Mozilla/5.0 (Linux; Android 5.0.2; SM-S920L Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-S920L,
-"Mozilla/5.0 (Linux; Android 4.4.4; MediaPad T1 8.0 Pro Build/HuaweiMediaPad) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Safari/537.36",null,Huawei,UnKnown,Huawei,Huawei,MediaPad T1,
-"Mozilla/5.0 (Linux; Android 6.0; XT1585 Build/MCK24.78-13.16; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.8487000.1)",null,null,UnKnown,Motorola,Motorola,XT1585,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G935V Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-G935V,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G928C Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G928C,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920P Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/49.0.2623.105 Mobile Safari/537.36",null,Samsung,UnKnown,Sprint,Samsung,SM-G920P,
-"Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G920F Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G920F,
-"Mozilla/5.0 (Linux; Android 6.0.1; 0PM92 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36",null,null,UnKnown,HTC,HTC,Desire 626s,
-"Mozilla/5.0 (Linux; Android 5.1; LG-H815 Build/LMY47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,LG,LG,H815,
-"Mozilla/5.0 (Linux; Android 5.1; HTCD200LVWPP Build/LMY47O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,HTC,UnKnown,Verizon,HTC,Desire 626,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J100VPP Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J100VPP,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-G531H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.2661.86 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G531H,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-G531F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.2661.86 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G531F,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-G531F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G531F,
-"Mozilla/5.0 (Linux; Android 5.1.1; LG-H634 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,Cricket,LG,H634,
-"Mozilla/5.0 (Linux; Android 5.1.1; 5054W Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Alcatel,Alcatel,5054W,
-"Mozilla/5.0 (Linux; Android 5.0.2; SM-A300M Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-A300M,
-"Mozilla/5.0 (Linux; Android 5.0.1; ASUS ZenFone 2E Build/LRX22C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Asus,UnKnown,Asus,Asus,Zenfone 2E,
-"Mozilla/5.0 (Linux; Android 4.4.2; K010 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36",null,null,UnKnown,Asus,Asus,TF103C (K010),
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-N920V Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N920V,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-N915P Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Sprint,Samsung,SM-N915P,
-"Mozilla/5.0 (Linux; Android 5.1; Z818L Build/LMY47O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,ZTE,ZTE,Z819L,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-N910V Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-N910V,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-N910H Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N910H,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-N910F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N910F,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-N910C Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N910C,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J200H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J200H,
-"Mozilla/5.0 (Linux; Android 5.1.1; KFFOWI Build/LVY48F; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/49.0.2623.105 Safari/537.36",null,null,UnKnown,Amazon,Amazon,Fire (2015),
-"Mozilla/5.0 (Linux; Android 5.0.1; SM-N915V Build/LRX22C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N915V,
-"Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG-SM-N910A Build/LRX22C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,AT&T,Samsung,SM-N910A,
-"Mozilla/5.0 (Linux; Android 4.4.4; SM-G530FZ Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G530FZ,
-"Mozilla/5.0 (Linux; Android 4.4.2; 5560S Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Coolpad,Coolpad,5560S,
-"Mozilla/5.0 (Linux; Android 6.0; XT1585 Build/MCK24.78-13.16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Motorola,Motorola,XT1585,
-"Mozilla/5.0 (Linux; Android 6.0; XT1575 Build/MPHS24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Motorola,Motorola,XT1575,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-J510FN Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,UnKnown,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G935V Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.8487000.1)",null,Samsung,UnKnown,Verizon,Samsung,SM-G935V,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920V Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.2661.86 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-G920V,
-"Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-J120AZ Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36",null,Samsung,UnKnown,null,Samsung,UnKnown,
-"Mozilla/5.0 (Linux; Android 6.0.1; D6633 Build/23.5.A.0.575; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Sony,Sony,D6633,
-"Mozilla/5.0 (Linux; Android 6.0.1; ASUS_Z00ED Build/MMB29P; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Asus,UnKnown,Asus,Asus,Z00ED,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J111M Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,UnKnown,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-G925I Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G925I,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-A710F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-A710F,
-"Mozilla/5.0 (Linux; Android 5.1.1; KFMEWI Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.51020.2250.0268 Safari/537.36",null,null,UnKnown,Amazon,Amazon,Fire HD 8 (2015),
-"Mozilla/5.0 (Linux; Android 5.0; Tab2A7-10F Build/LRX21M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Safari/537.36",null,null,UnKnown,Lenovo,Lenovo,A7-10F,
-"Mozilla/5.0 (Linux; Android 5.0; NXA8QC116 Build/LRX21V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Safari/537.36",null,null,UnKnown,Nextbook,Nextbook,NXA8QC116,
-"Mozilla/5.0 (Linux; Android 4.4.4; SM-G130BU Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G130BU,
-"Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM;Touch)",null,null,UnKnown,Unknown,null,Generic Windows Phone,
-"WindowsPhoneAdClient/8.1.40505.0 (XAML; MRAID_1_0; Windows Phone OS 6.3; Microsoft; Virtual)",null,null,UnKnown,HTC,HTC,8X,
-"Mozilla/5.0 (Linux; Android 6.0; LG-H343 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,LG,LG,H343,
-"Mozilla/5.0 (Linux; Android 6.0; HUAWEI VNS-L31 Build/HUAWEIVNS-L31; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Huawei,UnKnown,null,Huawei,UnKnown,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-N920P Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.8487000.1)",null,Samsung,UnKnown,Samsung,Samsung,SM-N920P,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G930P Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.6587000.1)",null,Samsung,UnKnown,Samsung,Samsung,SM-G930P,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920T1 Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G920T1,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G550T1 Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,UnKnown,
-"Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G920P Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36",null,Samsung,UnKnown,Sprint,Samsung,SM-G920P,
-"Mozilla/5.0 (Linux; Android 6.0; 0PJA2 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,HTC,HTC,One M9,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J700M Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J700M,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J700F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J700F,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J500FN Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.2661.86 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J500FN,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-G920W8 Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G920W8,
-"Mozilla/5.0 (Linux; Android 5.1.1; 5054N Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.2661.86 Mobile Safari/537.36",null,null,UnKnown,Alcatel,Alcatel,5054N,
-"Mozilla/5.0 (Linux; Android 5.1.1; 5017B Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,null,UnKnown,Alcatel,Alcatel,5017B,
-"Mozilla/5.0 (Linux; Android 4.4.4; SM-J110L Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J110L,
-"Mozilla/5.0 (Linux; Android 4.4.4; SM-J100F Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J100F,
-"Mozilla/5.0 (Linux; Android 4.4.2; SUNSET2 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Wiko,Wiko,Sunset 2,
-"Mozilla/5.0 (Linux; Android 4.4.2; ASUS_Z007 Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,Asus,UnKnown,Asus,Asus,ZC451CG (Z007),
-"Java/1.8.0_51",null,null,UnKnown,null,null,UnKnown,
-"WindowsAdClient/8.1.40402.2 (Windows; WWA)",null,null,UnKnown,null,null,UnKnown,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G935T Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.6587000.1)",null,Samsung,UnKnown,T-Mobile,Samsung,SM-G935T,
-"Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-J120A Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,null,Samsung,UnKnown,
-"Mozilla/5.0 (Linux; Android 6.0.1; E5823 Build/32.2.A.0.224; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Sony,Sony,E5823,
-"Mozilla/5.0 (Linux; Android 6.0.1; 0PM92 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,HTC,HTC,Desire 626s,
-"Mozilla/5.0 (Linux; Android 5.1; XT1096 Build/LPES23.32-25-5-2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Verizon,Motorola,XT1096,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J200G Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J200G,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-J120M Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J120M,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-G800F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G800F,
-"Mozilla/5.0 (Linux; Android 5.1.1; SM-E700F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-E700F,
-"Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-J500FN Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J500FN,
-"Mozilla/5.0 (Linux; Android 5.0.1; LG-H320 Build/LRX21Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,LG,LG,H320,
-"Mozilla/5.0 (Linux; Android 4.4.4; Y635-L21 Build/HuaweiY635-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Huawei,Huawei,Y635-L01,
-"Mozilla/5.0 (Linux; Android 4.4.2; VS415PP Build/KOT49I.VS415PP1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Verizon,LG,VS415PP,
-"Mozilla/5.0 (Linux; Android 4.4.2; SM-G800H Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G800H,
-"Mozilla/5.0 (Linux; Android 4.4.2; ASUS_T00J Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36",null,Asus,UnKnown,Asus,Asus,T00J,
-"Dalvik/2.1.0 (Linux; U; Android 5.1; XT1254 Build/SU4TL-49)",null,Motorola,UnKnown,Motorola,Motorola,XT1254,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-N920T Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.8487000.1)",null,Samsung,UnKnown,T-Mobile,Samsung,SM-N920T,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-N915F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N915F,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-J710F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,UnKnown,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G935T Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.8487000.1)",null,Samsung,UnKnown,T-Mobile,Samsung,SM-G935T,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G930T Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/49.0.2623.105 Mobile Safari/537.36",null,Samsung,UnKnown,T-Mobile,Samsung,SM-G930T,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G928V Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G928V,
-"Mozilla/5.0 (Linux; Android 6.0.1; SM-G550T1 Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/49.0.2623.105 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,UnKnown,
-"Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-N920A Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.6587000.1)",null,Samsung,UnKnown,Samsung,Samsung,SM-N920A,
+"spray-can/1.3.3",null,null,UnKnown,null,null,UnKnown
+"NING/1.0",null,null,UnKnown,null,null,UnKnown
+"Jersey/2.22.2 (HttpUrlConnection 1.8.0_91)",null,null,UnKnown,null,null,UnKnown
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G920F
+"Mozilla/5.0 (Linux; Android 4.4.2; GT-I9301I Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Samsung,Samsung,GT-I9301I
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920V Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-G920V
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920P Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Sprint,Samsung,SM-G920P
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-G531H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G531H
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G930V Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-G930V
+"Mozilla/5.0 (Linux; Android 5.1; XT1254 Build/SU4TL-49; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Motorola,Motorola,XT1254
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-N920V Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N920V
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J500FN Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J500FN
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G925F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G925F
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-N910V Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-N910V
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-N920T Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,T-Mobile,Samsung,SM-N920T
+"Mozilla/5.0 (Linux; Android 6.0; XT1585 Build/MCK24.78-13.16; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Motorola,Motorola,XT1585
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-N920P Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N920P
+"Mozilla/5.0 (Linux; Android 4.4.4; SM-J100H Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J100H
+"Mozilla/5.0 (Linux; Android 4.4.4; SM-G530H Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G530H
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-G800F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G800F
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G935F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G935F
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G935V Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-G935V
+"WindowsAdClient/8.1.40402.2 (Windows; XAML)",null,null,UnKnown,null,null,UnKnown
+"Mozilla/5.0 (Linux; Android 5.0.2; SM-A300FU Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-A300FU
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G930P Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G930P
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920T Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G920T
+"Mozilla/5.0 (Linux; Android 5.1.1; KFFOWI Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.51020.2250.0268 Safari/537.36",null,null,UnKnown,Amazon,Amazon,Fire (2015)
+"Mozilla/5.0 (Linux; Android 4.4.4; SM-J110H Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J110H
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-G531F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G531F
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G930T Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,T-Mobile,Samsung,SM-G930T
+"Mozilla/5.0 (Linux; Android 4.4.4; SM-S820L Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-S820L
+"Mozilla/5.0 (Linux; Android 5.0.2; SM-A500FU Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-A500FU
+"Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-N920A Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N920A
+"SpotXchange/3.0 (+http://search.spotxchange.com/spotmarket.html)",null,null,UnKnown,null,null,UnKnown
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J500M Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J500M
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J700F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J700F
+"Mozilla/5.0 (Linux; Android 5.1.1; 5054N Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Alcatel,Alcatel,5054N
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J700M Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J700M
+"Jersey/2.22.2 (HttpUrlConnection 1.8.0_66)",null,null,UnKnown,null,null,UnKnown
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-N910T Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,T-Mobile,Samsung,SM-N910T
+"Mozilla/5.0 (Linux; Android 4.4.4; Z970 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,null,UnKnown,ZTE,ZTE,Z970
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G930F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Orange,Samsung,SM-G930F
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G935P Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G935P
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G935T Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,T-Mobile,Samsung,SM-G935T
+"Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG-SM-N910A Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,AT&T,Samsung,SM-N910A
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-G530T1 Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G530T1
+"Mozilla/5.0 (Linux; Android 4.4.4; SM-G530BT Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G530BT
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J700H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J700H
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J500F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J500F
+"Mozilla/5.0 (Linux; Android 5.1; Z812 Build/LMY47O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,ZTE,ZTE,Z812
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G928T Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G928T
+"Mozilla/5.0 (Linux; Android 4.4.4; GT-I9300I Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Samsung,Samsung,GT-I9300I
+"Guzzle/5.3.0 curl/7.38.0 PHP/5.6.20-0+deb8u1",null,null,UnKnown,null,null,UnKnown
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J500H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J500H
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-N910P Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Sprint,Samsung,SM-N910P
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N910F
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G928V Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G928V
+"Java/1.8.0_60",null,null,UnKnown,null,null,UnKnown
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-N920C Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N920C
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-N910C Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N910C
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G925V Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-G925V
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J200F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J200F
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-A310F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-A310F
+"Mozilla/5.0 (Linux; Android 5.0.2; SM-G530H Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G530H
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J200H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J200H
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-G530T Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,T-Mobile,Samsung,SM-G530T
+"Java/1.8.0_91",null,null,UnKnown,null,null,UnKnown
+"Mozilla/5.0 (Linux; Android 6.0; LG-H811 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,T-Mobile,LG,H811
+"Mozilla/5.0 (Linux; Android 5.0.2; SM-S920L Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-S920L
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G925T Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G925T
+"Mozilla/5.0 (Linux; Android 6.0.1; D5803 Build/23.5.A.0.575; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Sony,Sony,D5803
+"Mozilla/5.0 (Linux; Android 5.1; XT1526 Build/LPI23.29-18-S.12; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Sprint,Motorola,XT1526
+"Mozilla/5.0 (Linux; Android 5.1.1; Z828 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,ZTE,ZTE,Z828
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-G531H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G531H
+"Mozilla/5.0 (Linux; Android 5.0.2; SM-A500F Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-A500F
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-J500M Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J500M
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J320P Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J320P
+"Java/1.8.0_45",null,null,UnKnown,null,null,UnKnown
+"Mozilla/5.0 (Linux; Android 6.0; LG-H901 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,LG,LG,H901
+"Mozilla/5.0 (Linux; Android 5.1; HTCD100LVWPP Build/LMY47O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,HTC,UnKnown,HTC,HTC,Desire 526
+"Mozilla/5.0 (Linux; Android 5.0.2; SM-A500H Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-A500H
+"Mozilla/5.0 (Linux; Android 6.0.1; D6603 Build/23.5.A.0.575; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Sony,Sony,D6603
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J110M Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J110M
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-A510F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-A510F
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920V Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-G920V
+"Mozilla/5.0 (Linux; Android 4.4.2; ASUS_T00J Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,Asus,UnKnown,Asus,Asus,T00J
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920R4 Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G920R4
+"Java/1.7.0_80",null,null,UnKnown,null,null,UnKnown
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G925P Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Sprint,Samsung,SM-G925P
+"Mozilla/5.0 (Linux; Android 4.4.4; SM-G530M Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G530M
+"Mozilla/5.0 (Linux; Android 6.0; LG-H631 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,T-Mobile,LG,H631
+"Mozilla/5.0 (Linux; Android 6.0.1; XT1565 Build/MCD24.107-51.4; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Motorola,Motorola,XT1565
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G930R4 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G930R4
+"Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-J320AZ Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Cricket,Samsung,SM-J320AZ
+"Mozilla/5.0 (Linux; Android 5.1.1; Z828 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.2311.137 Mobile Safari/537.36",null,null,UnKnown,ZTE,ZTE,Z828
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J120H Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J120H
+"Mozilla/5.0 (Linux; Android 5.0.2; SM-G850F Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G850F
+"Mozilla/5.0 (Linux; Android 5.0.2; SM-A300H Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-A300H
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-G531H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G531H
+"Mozilla/5.0 (Linux; Android 5.0; ASUS_Z00AD Build/LRX21V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Asus,UnKnown,Asus,Asus,ZE551ML (Z00AD)
+"Mozilla/5.0 (Linux; Android 4.4.4; A462C Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Alcatel,Alcatel,A462C
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920V Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.8487000.1)",null,Samsung,UnKnown,Verizon,Samsung,SM-G920V
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J320FN Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J320FN
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920I Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G920I
+"Mozilla/5.0 (Linux; Android 5.1; XT1528 Build/LPIS23.29-17.5-2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Motorola,Motorola,XT1528
+"Mozilla/5.0 (Linux; Android 4.4.2; 7040N Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Alcatel,Alcatel,7040N
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-N910T Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,T-Mobile,Samsung,SM-N910T
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G930V Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-G930V
+"Mozilla/5.0 (Linux; Android 5.1; Z820 Build/LMY47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.2311.137 Mobile Safari/537.36",null,null,UnKnown,ZTE,ZTE,Z820
+"Mozilla/5.0 (Linux; Android 5.1.1; 5054N Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256236.6587000.1)",null,null,UnKnown,Alcatel,Alcatel,5054N
+"Mozilla/5.0 (Linux; Android 5.1; 0PM92 Build/LMY47O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,null,UnKnown,HTC,HTC,Desire 626s
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G928P Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G928P
+"Mozilla/5.0 (Linux; Android 5.1; XT1254 Build/SU4TL-49; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256230.8487000.1)",null,null,UnKnown,Motorola,Motorola,XT1254
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G928F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G928F
+"Mozilla/5.0 (Linux; Android 5.1; Z958 Build/LMY47O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,ZTE,ZTE,Z958
+"Mozilla/5.0 (Linux; Android 5.1.1; 5054N Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,null,UnKnown,Alcatel,Alcatel,5054N
+"Mozilla/5.0 (Linux; Android 4.4.4; Y635-L01 Build/HuaweiY635-L01) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Huawei,Huawei,Y635-L01
+"Mozilla/5.0 (Linux; Android 4.4.4; SM-J110F Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J110F
+"Mozilla/5.0 (Linux; Android 4.4.4; SM-J100MU Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J100MU
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G925I Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G925I
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G860P Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Sprint,Samsung,SM-G860P
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J320M Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J320M
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J200M Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J200M
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-G531BT Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G531BT
+"Mozilla/5.0 (Linux; Android 5.1.1; 5017B Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Alcatel,Alcatel,5017B
+"Mozilla/5.0 (Linux; Android 6.0; LG-H900 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,LG,LG,H900
+"Mozilla/5.0 (Linux; Android 6.0; LG-H810 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,AT&T,LG,H810
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-G920F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G920F
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-G530T1 Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G530T1
+"Mozilla/5.0 (Linux; Android 5.0.2; 6045O Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Alcatel,Alcatel,6045O
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-J700T Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,UnKnown
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920V Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.6587000.1)",null,Samsung,UnKnown,Verizon,Samsung,SM-G920V
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J320F Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J320F
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-G920V Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-G920V
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-G531F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G531F
+"Mozilla/5.0 (Linux; Android 4.4.2; Tab2A7-10F Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36",null,null,UnKnown,Lenovo,Lenovo,A7-10F
+"Mozilla/5.0 (Linux; Android 4.4.2; SM-G110B Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G110B
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J200BT Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J200BT
+"Mozilla/5.0 (Linux; Android 5.0.2; SM-G530FZ Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G530FZ
+"Mozilla/5.0 (Linux; Android 5.0.2; SM-A300F Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-A300F
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-N920T Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.6587000.1)",null,Samsung,UnKnown,T-Mobile,Samsung,SM-N920T
+"Mozilla/5.0 (Linux; Android 5.1; Z820 Build/LMY47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,ZTE,ZTE,Z820
+"Mozilla/5.0 (Linux; U; Android 4.3; en-us; C6530N Build/JLS36C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",null,null,UnKnown,Kyocera,Kyocera,C6530N
+"Mozilla/5.0 (Linux; Android 6.0; LG-H815 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,LG,LG,H815
+"Mozilla/5.0 (Linux; Android 5.1; Z812 Build/LMY47O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.2311.137 Mobile Safari/537.36",null,null,UnKnown,ZTE,ZTE,Z812
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J500F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J500F
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J105B Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J105B
+"Mozilla/5.0 (Linux; Android 5.0.2; SM-A500M Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-A500M
+"Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-J320AZ Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256436.6587000.1)",null,Samsung,UnKnown,Cricket,Samsung,SM-J320AZ
+"Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-J320A Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J320A
+"Mozilla/5.0 (Linux; Android 5.1; HUAWEI RIO-L01 Build/HuaweiRIO-L01) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36",null,Huawei,UnKnown,Huawei,Huawei,RIO-L01
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J700H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J700H
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J500H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J500H
+"Mozilla/5.0 (Linux; Android 5.1.1; LG-H631 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,T-Mobile,LG,H631
+"Mozilla/5.0 (Linux; Android 5.1.1; KYOCERA-C6745 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Kyocera,Kyocera,C6745
+"ADmantX Platform Semantic Analyzer Appnexus - ADmantX Inc. - www.admantx.com - support@admantx.com",null,null,UnKnown,null,null,UnKnown
+"Words HD Free 7.02 (iPad; iPhone OS 9.3.2; en_US)",null,null,UnKnown,null,null,UnKnown
+"Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-S975L Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",null,Samsung,UnKnown,Samsung,Samsung,SM-S975L
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-N910H Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N910H
+"Mozilla/5.0 (Linux; Android 4.4.2; Tab2A7-20F Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36",null,null,UnKnown,Lenovo,Lenovo,A7-20F
+"Opera/9.80 (Android; Opera Mini/7.6.40234/37.8743; U; en) Presto/2.12.423 Version/12.16",null,null,UnKnown,null,null,UnKnown
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J700F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J700F
+"Mozilla/5.0 (Linux; Android 4.4.2; T1 7.0 Build/HuaweiMediaPad) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36",null,null,UnKnown,Huawei,Huawei,T1-701u
+"Mozilla/5.0 (Linux; Android 4.4.2; SM-G800F Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G800F
+"Mozilla/5.0 (Linux; Android 4.4.2; etab5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36",null,null,UnKnown,General Mobile,General Mobile,E-Tab 5
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-N920R4 Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N920R4
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920F Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G920F
+"Mozilla/5.0 (Linux; Android 4.4.2; 0PCV1 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,null,UnKnown,HTC,HTC,Desire 510
+"Mozilla/5.0 (Linux; Android 6.0; HTC6535LVW Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,HTC,UnKnown,HTC,HTC,6535LVW
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-N920V Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.8487000.1)",null,Samsung,UnKnown,Samsung,Samsung,SM-N920V
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G930V Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.2564.106 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-G930V
+"Mozilla/5.0 (Linux; Android 5.1; XT1254 Build/SU4TL-49) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Motorola,Motorola,XT1254
+"Mozilla/5.0 (Linux; Android 5.1; HTCD200LVW Build/LMY47O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,HTC,UnKnown,HTC,HTC,Desire 526
+"Mozilla/5.0 (Linux; Android 5.1.1; VS425PP Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Verizon,LG,VS425PP
+"Mozilla/5.0 (Linux; Android 5.1.1; LG-H345 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,LG,LG,H345
+"Mozilla/5.0 (Linux; Android 4.4.4; Z987 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,null,UnKnown,ZTE,ZTE,Z987
+"Mozilla/5.0 (Linux; Android 4.4.4; D5103 Build/18.1.A.2.25) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Sony,Sony,D5103
+"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6P Build/MTC19X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Google,Huawei,Nexus 6P
+"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6 Build/MOB30O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Google,Motorola,Nexus 6
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-E500H Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-E500H
+"Mozilla/5.0 (Linux; Android 5.1.1; LG-H343 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,LG,LG,H343
+"Mozilla/5.0 (Linux; Android 5.1.1; KIW-L21 Build/HONORKIW-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Huawei,Huawei,KIW-L21
+"Mozilla/5.0 (Linux; Android 4.4.4; SM-G530F Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G530F
+"Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-S765C Build/JLS36C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",null,Samsung,UnKnown,Samsung,Samsung,SM-S765C
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G930T Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.6587000.1)",null,Samsung,UnKnown,T-Mobile,Samsung,SM-G930T
+"Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-J120AZ Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,null,Samsung,UnKnown
+"Mozilla/5.0 (Linux; Android 5.1.1; Z959 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,ZTE,ZTE,Z959
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-N7505 Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N7505
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J500H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J500H
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J200H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J200H
+"Mozilla/5.0 (Linux; Android 4.4.4; SM-N910T Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,T-Mobile,Samsung,SM-N910T
+"Mozilla/5.0 (Linux; Android 4.4.4; 5042T Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Alcatel,Alcatel,5042T
+"Mozilla/5.0 (Linux; Android 4.4.2; VS415PP Build/KOT49I.VS415PP2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Verizon,LG,VS415PP
+"Mozilla/5.0 (Linux; Android 4.4.2; SM-S902L Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-S902L
+"Mozilla/5.0 (Linux; Android 4.4.2; SM-N7505 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N7505
+"talkmeim/9037 CFNetwork/758.4.3 Darwin/15.5.0",null,null,UnKnown,null,null,UnKnown
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-J700T1 Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,UnKnown
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G930V Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.8487000.1)",null,Samsung,UnKnown,Verizon,Samsung,SM-G930V
+"Mozilla/5.0 (Linux; Android 6.0.1; A0001 Build/MHC19Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,OnePlus,OnePlus,A0001
+"Mozilla/5.0 (Linux; Android 5.1; 5015A Build/LMY47I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Alcatel,Alcatel,5015A
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J110M Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J110M
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-G531M Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G531M
+"Words 7.70 (iPhone; iPhone OS 9.3.2; en_US)",null,null,UnKnown,null,null,UnKnown
+"Mozilla/5.0 (Linux; Android 6.0; XT1078 Build/MPB24.65-34; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Motorola,Motorola,XT1078
+"Mozilla/5.0 (Linux; Android 6.0.1; XT1563 Build/MPD24.107-52; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Motorola,Motorola,XT1563
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-N910V Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256430.8487000.1)",null,Samsung,UnKnown,Verizon,Samsung,SM-N910V
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-N910T3 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,T-Mobile,Samsung,SM-N910T3
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-J700P Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,UnKnown
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920T Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.2564.106 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G920T
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-G800H Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G800H
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-G530T Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.2311.137 Mobile Safari/537.36",null,Samsung,UnKnown,T-Mobile,Samsung,SM-G530T
+"Mozilla/5.0 (Linux; Android 5.0.2; SM-S920L Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-S920L
+"Mozilla/5.0 (Linux; Android 4.4.4; MediaPad T1 8.0 Pro Build/HuaweiMediaPad) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Safari/537.36",null,Huawei,UnKnown,Huawei,Huawei,MediaPad T1
+"Mozilla/5.0 (Linux; Android 6.0; XT1585 Build/MCK24.78-13.16; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.8487000.1)",null,null,UnKnown,Motorola,Motorola,XT1585
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G935V Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-G935V
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G928C Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G928C
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920P Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/49.0.2623.105 Mobile Safari/537.36",null,Samsung,UnKnown,Sprint,Samsung,SM-G920P
+"Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G920F Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G920F
+"Mozilla/5.0 (Linux; Android 6.0.1; 0PM92 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36",null,null,UnKnown,HTC,HTC,Desire 626s
+"Mozilla/5.0 (Linux; Android 5.1; LG-H815 Build/LMY47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,LG,LG,H815
+"Mozilla/5.0 (Linux; Android 5.1; HTCD200LVWPP Build/LMY47O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,HTC,UnKnown,Verizon,HTC,Desire 626
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J100VPP Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J100VPP
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-G531H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.2661.86 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G531H
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-G531F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.2661.86 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G531F
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-G531F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G531F
+"Mozilla/5.0 (Linux; Android 5.1.1; LG-H634 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,Cricket,LG,H634
+"Mozilla/5.0 (Linux; Android 5.1.1; 5054W Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Alcatel,Alcatel,5054W
+"Mozilla/5.0 (Linux; Android 5.0.2; SM-A300M Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-A300M
+"Mozilla/5.0 (Linux; Android 5.0.1; ASUS ZenFone 2E Build/LRX22C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Asus,UnKnown,Asus,Asus,Zenfone 2E
+"Mozilla/5.0 (Linux; Android 4.4.2; K010 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36",null,null,UnKnown,Asus,Asus,TF103C (K010)
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-N920V Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N920V
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-N915P Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Sprint,Samsung,SM-N915P
+"Mozilla/5.0 (Linux; Android 5.1; Z818L Build/LMY47O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,ZTE,ZTE,Z819L
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-N910V Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-N910V
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-N910H Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N910H
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-N910F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N910F
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-N910C Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N910C
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J200H Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J200H
+"Mozilla/5.0 (Linux; Android 5.1.1; KFFOWI Build/LVY48F; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/49.0.2623.105 Safari/537.36",null,null,UnKnown,Amazon,Amazon,Fire (2015)
+"Mozilla/5.0 (Linux; Android 5.0.1; SM-N915V Build/LRX22C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N915V
+"Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG-SM-N910A Build/LRX22C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,AT&T,Samsung,SM-N910A
+"Mozilla/5.0 (Linux; Android 4.4.4; SM-G530FZ Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G530FZ
+"Mozilla/5.0 (Linux; Android 4.4.2; 5560S Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Coolpad,Coolpad,5560S
+"Mozilla/5.0 (Linux; Android 6.0; XT1585 Build/MCK24.78-13.16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Motorola,Motorola,XT1585
+"Mozilla/5.0 (Linux; Android 6.0; XT1575 Build/MPHS24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Motorola,Motorola,XT1575
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-J510FN Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,UnKnown
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G935V Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.8487000.1)",null,Samsung,UnKnown,Verizon,Samsung,SM-G935V
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920V Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.2661.86 Mobile Safari/537.36",null,Samsung,UnKnown,Verizon,Samsung,SM-G920V
+"Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-J120AZ Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36",null,Samsung,UnKnown,null,Samsung,UnKnown
+"Mozilla/5.0 (Linux; Android 6.0.1; D6633 Build/23.5.A.0.575; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Sony,Sony,D6633
+"Mozilla/5.0 (Linux; Android 6.0.1; ASUS_Z00ED Build/MMB29P; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Asus,UnKnown,Asus,Asus,Z00ED
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J111M Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,UnKnown
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-G925I Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G925I
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-A710F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-A710F
+"Mozilla/5.0 (Linux; Android 5.1.1; KFMEWI Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.51020.2250.0268 Safari/537.36",null,null,UnKnown,Amazon,Amazon,Fire HD 8 (2015)
+"Mozilla/5.0 (Linux; Android 5.0; Tab2A7-10F Build/LRX21M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Safari/537.36",null,null,UnKnown,Lenovo,Lenovo,A7-10F
+"Mozilla/5.0 (Linux; Android 5.0; NXA8QC116 Build/LRX21V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Safari/537.36",null,null,UnKnown,Nextbook,Nextbook,NXA8QC116
+"Mozilla/5.0 (Linux; Android 4.4.4; SM-G130BU Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G130BU
+"Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM;Touch)",null,null,UnKnown,Unknown,null,Generic Windows Phone
+"WindowsPhoneAdClient/8.1.40505.0 (XAML; MRAID_1_0; Windows Phone OS 6.3; Microsoft; Virtual)",null,null,UnKnown,HTC,HTC,8X
+"Mozilla/5.0 (Linux; Android 6.0; LG-H343 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,LG,LG,H343
+"Mozilla/5.0 (Linux; Android 6.0; HUAWEI VNS-L31 Build/HUAWEIVNS-L31; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Huawei,UnKnown,null,Huawei,UnKnown
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-N920P Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.8487000.1)",null,Samsung,UnKnown,Samsung,Samsung,SM-N920P
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G930P Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.6587000.1)",null,Samsung,UnKnown,Samsung,Samsung,SM-G930P
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G920T1 Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G920T1
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G550T1 Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,UnKnown
+"Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G920P Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36",null,Samsung,UnKnown,Sprint,Samsung,SM-G920P
+"Mozilla/5.0 (Linux; Android 6.0; 0PJA2 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,HTC,HTC,One M9
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J700M Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J700M
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J700F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J700F
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J500FN Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.2661.86 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J500FN
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-G920W8 Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G920W8
+"Mozilla/5.0 (Linux; Android 5.1.1; 5054N Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.2661.86 Mobile Safari/537.36",null,null,UnKnown,Alcatel,Alcatel,5054N
+"Mozilla/5.0 (Linux; Android 5.1.1; 5017B Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",null,null,UnKnown,Alcatel,Alcatel,5017B
+"Mozilla/5.0 (Linux; Android 4.4.4; SM-J110L Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J110L
+"Mozilla/5.0 (Linux; Android 4.4.4; SM-J100F Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J100F
+"Mozilla/5.0 (Linux; Android 4.4.2; SUNSET2 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Wiko,Wiko,Sunset 2
+"Mozilla/5.0 (Linux; Android 4.4.2; ASUS_Z007 Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,Asus,UnKnown,Asus,Asus,ZC451CG (Z007)
+"Java/1.8.0_51",null,null,UnKnown,null,null,UnKnown
+"WindowsAdClient/8.1.40402.2 (Windows; WWA)",null,null,UnKnown,null,null,UnKnown
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G935T Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.6587000.1)",null,Samsung,UnKnown,T-Mobile,Samsung,SM-G935T
+"Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-J120A Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,null,Samsung,UnKnown
+"Mozilla/5.0 (Linux; Android 6.0.1; E5823 Build/32.2.A.0.224; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Sony,Sony,E5823
+"Mozilla/5.0 (Linux; Android 6.0.1; 0PM92 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,HTC,HTC,Desire 626s
+"Mozilla/5.0 (Linux; Android 5.1; XT1096 Build/LPES23.32-25-5-2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,null,UnKnown,Verizon,Motorola,XT1096
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J200G Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J200G
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-J120M Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J120M
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-G800F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G800F
+"Mozilla/5.0 (Linux; Android 5.1.1; SM-E700F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-E700F
+"Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-J500FN Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-J500FN
+"Mozilla/5.0 (Linux; Android 5.0.1; LG-H320 Build/LRX21Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,LG,UnKnown,LG,LG,H320
+"Mozilla/5.0 (Linux; Android 4.4.4; Y635-L21 Build/HuaweiY635-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Huawei,Huawei,Y635-L01
+"Mozilla/5.0 (Linux; Android 4.4.2; VS415PP Build/KOT49I.VS415PP1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,null,UnKnown,Verizon,LG,VS415PP
+"Mozilla/5.0 (Linux; Android 4.4.2; SM-G800H Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G800H
+"Mozilla/5.0 (Linux; Android 4.4.2; ASUS_T00J Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36",null,Asus,UnKnown,Asus,Asus,T00J
+"Dalvik/2.1.0 (Linux; U; Android 5.1; XT1254 Build/SU4TL-49)",null,Motorola,UnKnown,Motorola,Motorola,XT1254
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-N920T Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.8487000.1)",null,Samsung,UnKnown,T-Mobile,Samsung,SM-N920T
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-N915F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-N915F
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-J710F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,UnKnown
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G935T Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.8487000.1)",null,Samsung,UnKnown,T-Mobile,Samsung,SM-G935T
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G930T Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/49.0.2623.105 Mobile Safari/537.36",null,Samsung,UnKnown,T-Mobile,Samsung,SM-G930T
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G928V Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,SM-G928V
+"Mozilla/5.0 (Linux; Android 6.0.1; SM-G550T1 Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/49.0.2623.105 Mobile Safari/537.36",null,Samsung,UnKnown,Samsung,Samsung,UnKnown
+"Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-N920A Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9256440.6587000.1)",null,Samsung,UnKnown,Samsung,Samsung,SM-N920A
