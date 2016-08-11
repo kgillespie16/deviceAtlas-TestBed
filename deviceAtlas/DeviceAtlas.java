@@ -83,7 +83,7 @@ public class DeviceAtlas {
     }
 
     // Combines model, vendor/manufacturer, osName, osVersion from both deviceAtlas API's
-    private HashMap <String, Map> combineAttributes(String userAgent, Map<String, Object> attributesV1, Properties attributesV2){
+    public HashMap <String, Map> combineAttributes(String userAgent, Map<String, Object> attributesV1, Properties attributesV2){
             String v1 = "v1";
             String v2 = "v2";
             HashMap <String, Map>  attributes = new HashMap<String, Map>();
@@ -97,12 +97,21 @@ public class DeviceAtlas {
             attributes.put("model", tmp);
             versions.clear();
 
-            // VENDOR/MANU
+            // VENDOR
             versions.put(v1, Attributes.vendor.get(attributesV1));
+            if(attributesV2.get("vendor")!=null)
+            versions.put(v2, attributesV2.get("vendor").asString());
+            tmp = new HashMap<String, String>(versions);
+            attributes.put("vendor", tmp);
+            versions.clear();
+
+            // MANU
+
+            versions.put(v1, Attributes.manufacturer.get(attributesV1));
             if(attributesV2.get("manufacturer")!=null)
             versions.put(v2, attributesV2.get("manufacturer").asString());
             tmp = new HashMap<String, String>(versions);
-            attributes.put("vendor", tmp);
+            attributes.put("manufacturer", tmp);
             versions.clear();
 
             // OSNAME
@@ -376,6 +385,7 @@ public class DeviceAtlas {
     }
 
     private enum Attributes {
+        manufacturer,
         model,
         mobileDevice,
         displayWidth,

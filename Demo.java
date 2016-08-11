@@ -5,7 +5,7 @@
  * into user agent strings. The user agent strings are then passed to the        *
  * two different versions of DeviceAtlas and the output device attributes are    *
  * then compared. The differences are returned in an output csv file.            *
- ********************************************************************************/    
+ ********************************************************************************/
 
 import deviceAtlas.DeviceAtlas;
 import deviceAtlas.V2_1.mobi.mtld.da.Properties;
@@ -31,7 +31,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class Demo {
-	
+
 	private static final Logger logger = LoggerFactory.getLogger(Demo.class);
 	private static DefaultParser parser = new DefaultParser();
 	private static Options options = new Options();
@@ -70,10 +70,10 @@ public class Demo {
 		}
 
 		// To print usage information if the user selects help option
-		if( commandLine.hasOption('h') ) { 
-			printUsage(); 
+		if( commandLine.hasOption('h') ) {
+			printUsage();
 			return;
-		} 
+		}
 		// Error if the two required arguments are not provided
 		else if (commandLine.getOptions().length < 2) {
 			printUsage("ERROR: Arguments missing");
@@ -100,14 +100,14 @@ public class Demo {
 		// Creates DeviceAtlas object
 		DeviceAtlas atlas = new DeviceAtlas(atlasV1Filename, atlasV2Filename);
 
-		// Creates PrintWriter objects 
+		// Creates PrintWriter objects
 		PrintWriter pwForDifferences = null;
 		PrintWriter pwForUnknowns = null;
 		try{
 			pwForDifferences = new PrintWriter(outputFilename);
 
 			// Contains the null/unknown values for make/madel of older version
-			pwForUnknowns = new PrintWriter("OldVersionNullUnknowns.csv"); 
+			pwForUnknowns = new PrintWriter("OldVersionNullUnknowns.csv");
 
 			// Headers for both output files
 			pwForDifferences.println("UserAgentString,"+"Key,"+"Version 1.7,"+"Version 2.1");
@@ -116,6 +116,10 @@ public class Demo {
 			// Loop to populate the output csv files
 			for(int i=0; i< readLimit; i++){
 				HashMap <String, Map> diff = findDiff(atlas,userAgents.get(i).getUserAgent());
+				// Returns map of both device atlas attributes
+				// Access the same as diff map but contains both equal and different values. keys manufacturer & vendor are now seperate
+				HashMap <String, Map> attributes = getAttributes(atlas,userAgents.get(i).getUserAgent());
+
 				for (String key : diff.keySet()){
 					Object valueV1 = diff.get(key).get("v1");
 					Object valueV2 = diff.get(key).get("v2");
@@ -137,18 +141,26 @@ public class Demo {
 
 	/** findDiff : DeviceAtlas, String -> HashMap<String,Map>
 	 *  Given    : an object of DeviceAtlas class and an userAgent string
-	 *  Returns  : the differences in attributes of deviceAtlas version 
-	 *             1.7 and version 2.1 for a given userAgent string. 
+	 *  Returns  : the differences in attributes of deviceAtlas version
+	 *             1.7 and version 2.1 for a given userAgent string.
 	 *  Strategy : Using function getDif(String, Map<String, Object>, Properties)
 	 *             from DeviceAtlas class to get the differences in attributes.*/
 	public static HashMap <String, Map> findDiff(DeviceAtlas atlas,String userAgent){
 		// Get Attributes from deviceAtlas1_7 api
 		Map<String, Object> attributesV1 = atlas.getV1DeviceAttributes(userAgent);
 		// Get Attributes from deviceAtlas2.1 api
-		Properties attributesV2 = atlas.getV2DeviceAttributes(userAgent); 
+		Properties attributesV2 = atlas.getV2DeviceAttributes(userAgent);
 		// Returns difference from the two attributes
-		HashMap <String, Map> diff = atlas.getDif(userAgent, attributesV1, attributesV2); 
+		HashMap <String, Map> diff = atlas.getDif(userAgent, attributesV1, attributesV2);
 		return diff;
+	}
+
+	/* Similar to findDiff but doesn't remove any equal values from map.  */
+	public static HashMap <String, Map> getAttributes(DeviceAtlas atlas,String userAgent){
+		Map<String, Object> attributesV1 = atlas.getV1DeviceAttributes(userAgent); // Gets Attributes from deviceAtlas1_7 api
+		Properties attributesV2 = atlas.getV2DeviceAttributes(userAgent); // Gets Attributes from deviceAtlas2.1 api
+		HashMap <String, Map> attributes = atlas.combineAttributes(userAgent, attributesV1, attributesV2); // Returns difference from the two attributes
+		return attributes;
 	}
 
 	/** readData : String -> List<UserAgentData>
@@ -159,9 +171,9 @@ public class Demo {
 		BufferedReader br = null;
 		String line = "";
 		// regex to split given user agent string
-		String splitBy = "(\\\"user-agent\\\")(:)"; 
+		String splitBy = "(\\\"user-agent\\\")(:)";
 		// Contains all the given user agent strings and their occurences
-		List<UserAgentData> userAgents = new ArrayList<UserAgentData>(); 
+		List<UserAgentData> userAgents = new ArrayList<UserAgentData>();
 		try {
 			br = new BufferedReader(new FileReader(filename));
 			while ((line = br.readLine()) != null) {
@@ -199,10 +211,10 @@ public class Demo {
 	}
 
 	/** getOption : String, boolean, String, String -> Option
-	 *  Given     : a string representing the long name of the 
-	 *              option, a boolean, a description string, a 
+	 *  Given     : a string representing the long name of the
+	 *              option, a boolean, a description string, a
 	 *              string representing the type of the option.
-	 *  Returns   : an object of Option class created according 
+	 *  Returns   : an object of Option class created according
 	 *              to the given arguments. */
 	private static Option getOption(String longOpt, boolean isRequired, String description, String argType) {
 		Option o = new Option(null, longOpt, isRequired, description);
@@ -215,7 +227,7 @@ public class Demo {
 	/** printUsage : String -> void
 	 *  Prints the given message alongwith the usage options.
 	 *  Example: "Error: Arguments missing"
-	 *            (If the arguments provided on the command 
+	 *            (If the arguments provided on the command
 	 *            line are less than required.)*/
 	private static void printUsage(String message) {
 		System.out.println(message + "\n");
