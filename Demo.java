@@ -115,11 +115,9 @@ public class Demo {
 			pwForUnknowns = new PrintWriter("OldVersionNullUnknowns.csv");
 
 			// Headers for output files
-			pwForAttributes.println("UserAgentString,"+"Version1.7 Vendor,"+"Version1.7 Manufacturer,"+"Version1.7 Model,"+
-					"Version2.1 Vendor,"+"Version2.1 Manufacturer,"+"Version2.1 Model");
+			pwForAttributes.println("UserAgentString,"+"Vendor,"+"Manufacturer,"+"Model");
 			pwForDifferences.println("UserAgentString,"+"Key,"+"Version 1.7,"+"Version 2.1");
-			pwForUnknowns.println("UserAgentString,"+"Version1.7 Vendor,"+"Version1.7 Manufacturer,"+"Version1.7 Model,"+
-					"Version2.1 Vendor,"+"Version2.1 Manufacturer,"+"Version2.1 Model");
+			pwForUnknowns.println("UserAgentString,"+"Vendor,"+"Manufacturer,"+"Model");
 
 			// Loop to populate the output csv files
 			for(int i=0; i< readLimit; i++){
@@ -144,11 +142,13 @@ public class Demo {
 					}
 				}
 				if(vendorValueV1==null || (vendorValueV1==null && modelValueV1=="UnKnown")){
-					pwForUnknowns.println("\""+userAgents.get(i).getUserAgent() + "\"" + "," + vendorValueV1+ ","+ manuValueV1 + ","+modelValueV1+","+
-							vendorValueV2+","+manuValueV2+","+modelValueV2);
+					pwForUnknowns.println("\""+userAgents.get(i).getUserAgent() + "\"" + "," + "" + ","+ "" + ","+ "");
+					pwForUnknowns.println(""+","+ vendorValueV1+ ","+ manuValueV1 + ","+modelValueV1);
+					pwForUnknowns.println(""+","+ vendorValueV2+","+manuValueV2+","+modelValueV2);
 				}else{
-					pwForAttributes.println("\""+userAgents.get(i).getUserAgent() + "\"" + "," + vendorValueV1+ ","+ manuValueV1 + ","+modelValueV1+","+
-							vendorValueV2+","+manuValueV2+","+modelValueV2);
+					pwForAttributes.println("\""+userAgents.get(i).getUserAgent() + "\"" + "," + "" + ","+ "" + ","+ "");
+					pwForAttributes.println(""+","+ vendorValueV1+ ","+ manuValueV1 + ","+modelValueV1);
+					pwForAttributes.println(""+","+ vendorValueV2+","+manuValueV2+","+modelValueV2);
 				}
 				
 				for (String key : diff.keySet()){
@@ -157,7 +157,8 @@ public class Demo {
 					if(valueV1==null || valueV1=="UnKnown"){
 						//pwForUnknowns.println("\""+userAgents.get(i).getUserAgent() + "\"" + "," + key + "," + valueV1 + "," + valueV2);
 					}else{
-						pwForDifferences.println("\""+userAgents.get(i).getUserAgent()+"\"" + "," + key + ","+ valueV1 + "," + valueV2 );
+						pwForDifferences.println("\""+userAgents.get(i).getUserAgent()+
+							                     "\"" + "," + key + ","+ valueV1 + "," + valueV2 );
 					}
 				}
 			}
@@ -170,6 +171,7 @@ public class Demo {
 			e.printStackTrace();
 		}
 	}
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 	/** findDiff : DeviceAtlas, String -> HashMap<String,Map>
 	 *  Given    : an object of DeviceAtlas class and an userAgent string
@@ -197,6 +199,7 @@ public class Demo {
 		HashMap <String, Map> attributes = atlas.combineAttributes(userAgent, attributesV1, attributesV2); 
 		return attributes;
 	}
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 	/** readData : String -> List<UserAgentData>
 	 *  Given    : Input file to be read
@@ -234,7 +237,8 @@ public class Demo {
 		}
 		return userAgents;
 	}
-
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	
 	/** createOptions : void -> void
 	 *  Used to populate options to be provided to the command line.
 	 *  Examples: --inputFileName (The name of the input file to be read) */
@@ -244,7 +248,8 @@ public class Demo {
 		options.addOption(getOption("readLimit", true, "Lines of Input File To be Read", "Integer"));
 		options.addOption("h", "help", false, "Print Usage Information");
 	}
-
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	
 	/** getOption : String, boolean, String, String -> Option
 	 *  Given     : a string representing the long name of the
 	 *              option, a boolean, a description string, a
@@ -258,7 +263,8 @@ public class Demo {
 		o.setValueSeparator('=');
 		return o;
 	}
-
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	
 	/** printUsage : String -> void
 	 *  Prints the given message alongwith the usage options.
 	 *  Example: "Error: Arguments missing"
@@ -269,7 +275,8 @@ public class Demo {
 		printUsage();
 		System.exit(-1);
 	}
-
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	
 	/** printUsage : void -> void
 	 *  Prints the usage information mentioning the name, description
 	 *  and argument type of all arguments*/
@@ -280,3 +287,4 @@ public class Demo {
 		helpFormatter.printHelp("java Demo", options);
 	}
 }
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
